@@ -4,6 +4,18 @@ This is a small [DIAL](http://www.dial-multiscreen.org) server that emulates
 Chromecast-like devices, and implements the YouTube app. It proxies YouTube
 commands from mobile app to Kodi YouTube plugin.
 
+## Fork
+
+This repository is a fork of [https://github.com/sargo/kodicast](https://github.com/sargo/kodicast).
+Everything in this README, except this section, was written by [sargo](https://github.com/sargo).
+
+I don't intend to maintain this beyond what works for me, but feel free to
+contribute if you'd like.
+
+### Changes from upstream
+
+Nothing. But there is a [release](https://github.com/EBNull/kodicast/releases).
+
 ## Kodi configuration
 
 Turn on JSON-RPC (TCP transport) by enabling "Allow remote control from applications
